@@ -1,3 +1,7 @@
+---
+title: "About"
+---
+
 Hi, I'm Shawn, a backend engineer with over 10 years of experience
 building enterprise systems.
 
